@@ -40,4 +40,6 @@ We welcome contributions from researchers, developers, and practitioners worldwi
 
 *"Building open systems, responsibly."*
 
+This project uses [AI-assisted development tooling](https://open-systems-collective.github.io/ai-disclosure/) transparently and under human direction.
+
 [Website](https://open-systems-collective.github.io) | [Discussions](https://github.com/Open-Systems-Collective/osc-core/discussions) | [MIT License](https://github.com/Open-Systems-Collective/osc-core/blob/main/LICENSE)
