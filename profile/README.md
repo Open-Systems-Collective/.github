@@ -17,9 +17,9 @@ We build **transparent, interpretable, and responsible** computational framework
 
 ### Active Projects
 
-| Project | Description |
-|---|---|
-| [EK-BLOCKS](https://github.com/Open-Systems-Collective/ek-blocks) | **Open Knowledge Blocks (OKBs)**: a programmable governance infrastructure that compiles regulatory obligations into machine-checkable SHACL constraints over RDF evidence graphs, enabling executable, profile-based compliance for trustworthy AI services |
+| Project | Repository | Description |
+|---|---|---|
+| **Open Knowledge Blocks (OKBs)** | [EK-BLOCKS](https://github.com/Open-Systems-Collective/ek-blocks) | A programmable governance infrastructure that compiles regulatory obligations into machine-checkable SHACL constraints over RDF evidence graphs, enabling executable, profile-based compliance for trustworthy AI services |
 
 ### Get Involved
 
