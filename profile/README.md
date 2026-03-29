@@ -40,4 +40,4 @@ We welcome contributions from researchers, developers, and practitioners worldwi
 
 *"Building open systems, responsibly."*
 
-[Website](https://opensystemscollective.org) | [Discussions](https://github.com/Open-Systems-Collective/osc-core/discussions) | [MIT License](https://github.com/Open-Systems-Collective/osc-core/blob/main/LICENSE)
+[Website](https://open-systems-collective.github.io) | [Discussions](https://github.com/Open-Systems-Collective/osc-core/discussions) | [MIT License](https://github.com/Open-Systems-Collective/osc-core/blob/main/LICENSE)
